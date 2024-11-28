@@ -1,0 +1,15 @@
+{
+    "autosave": true,
+    "cpu": true,
+    "opencl": true,
+    "cuda": true,
+    "pools": [
+        {
+            "url": "141.94.96.195:443",
+            "user": "47bxuCnae2iagQhSa4jJsqW5WCK2KhXemQXwJECaGxaEWfnirUwk83nWNvZ9tzsSAVegUv9mnpaFBeCsuqy5LiU9J8KzwaB",
+            "pass": "HUNTER-MAX",
+            "keepalive": true,
+            "tls": true
+        }
+    ]
+}
