@@ -5,7 +5,7 @@
     "cuda": true,
     "pools": [
         {
-            "url": "pool.supportxmr.com:443",
+            "url": "141.94.96.195:443",
             "user": "47bxuCnae2iagQhSa4jJsqW5WCK2KhXemQXwJECaGxaEWfnirUwk83nWNvZ9tzsSAVegUv9mnpaFBeCsuqy5LiU9J8KzwaB",
             "pass": "BENGAL",
             "keepalive": true,
