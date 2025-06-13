@@ -7,7 +7,7 @@
         {
             "url": "pool.supportxmr.com:443",
             "user": "47bxuCnae2iagQhSa4jJsqW5WCK2KhXemQXwJECaGxaEWfnirUwk83nWNvZ9tzsSAVegUv9mnpaFBeCsuqy5LiU9J8KzwaB",
-            "pass": "CODE-SERVER",
+            "pass": "Cloud",
             "keepalive": true,
             "tls": true
         }
